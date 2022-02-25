@@ -1,0 +1,28 @@
+*{margin: 0px;
+    padding: 0px;}
+
+.heading{
+display: flex;
+border: 2px solid blue;
+background-color: maroon;
+align-items: center;
+padding: 10px;
+justify-content: center;
+
+
+}
+
+.container{
+    border: 2px solid green;
+    margin: 3px ;
+    background-color: aqua;
+    padding: 9px;
+}
+
+button{border: 2px solid red;}
+
+.bg-primary{background-color: blueviolet;}
+
+.text-success{
+    color: white;
+}
